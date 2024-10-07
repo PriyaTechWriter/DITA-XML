@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_addition_of_numbers">
+    <title>What is Addition of Numbers ?</title>
+    <shortdesc>The meaning of addition</shortdesc>
+    <conbody>
+        <p><b>Addition of numbers</b> is a basic arithmetic operation that combines two or more
+            numbers to find their total or sum. It’s the process of bringing two or more quantities
+            together to create a single quantity. The result is called the <b>sum.</b></p>
+    </conbody>
+</concept>

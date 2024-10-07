@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_numbers">
+    <title>How to Add Numbers ?</title>
+    <shortdesc>Here are the instructions for using the addition feature of ABC calculator
+        app</shortdesc>
+    <taskbody>
+        <prereq id="prereq_u1k_ckx_ycc">You must know what is addition to successfully perform this
+            operation.</prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the plus (+) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_ns4_kkx_ycc">The result from the addition is displayed.</result>
+        <example id="example_e3j_4kx_ycc">You want to add 2 into 5. The equation will appear as
+            5+2=7. Enter 5. Press plus. Enter 2. Press Equal. The result 7 appears on the screen. </example>
+    </taskbody>
+</task>

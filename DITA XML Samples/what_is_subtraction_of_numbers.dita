@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_subtraction_of_numbers">
+    <title>What is Subtraction of Numbers ?</title>
+    <shortdesc>The meaning of subtraction</shortdesc>
+    <conbody>
+        <p><b>Subtraction</b> is one of the basic arithmetic operations where you find the
+            difference between two numbers. It involves taking one number and removing the value of
+            another number from it. The result is called the <b>difference.</b></p>
+    </conbody>
+</concept>
