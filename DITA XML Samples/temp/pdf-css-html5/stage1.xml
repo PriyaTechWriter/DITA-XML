@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/end_user_guide_for_bmi_calculator_app.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/end_user_guide_for_bmi_calculator_app.ditamap">End-User Guide for BMI Calculator App</title>
+    <topichead class="+ map/topicref mapgroup-d/topichead " id="d81e14" navtitle="BMI" xtrc="topichead:1;5:31" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/end_user_guide_for_bmi_calculator_app.ditamap"><topicref class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" ohref="how_to_calculate_bmi.dita" type="task" xtrc="topicref:1;6:53" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/end_user_guide_for_bmi_calculator_app.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="how_to_calculate_bmi"><resourceid appid="how_to_calculate_bmi" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">How to Calculate BMI ?</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Calculate BMI ?</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here are the instructions for using BMI calculator app</shortdesc></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_2" href="#unique_2" id="unique_2" ohref="what_is_bmi.dita" type="concept" xtrc="topicref:2;7:44" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/end_user_guide_for_bmi_calculator_app.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="what_is_bmi"><resourceid appid="what_is_bmi" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">What is BMI ?</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is BMI ?</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Body Mass Index (BMI) is a simple and widely used method to estimate an individual's         body fat based on their weight with respect to their height. It’s commonly used by         healthcare professionals to evaluate the risk of developing health conditions related to         body weight, such as obesity, diabetes, hypertension, cardiovascular diseases, and certain         types of cancer. It provides numerical values that are catergorized into different ranges,         indicating whether they are underweight,normal weight, overweight, or obese.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d81e14"><title class="- topic/title ">BMI</title><task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_1" oid="how_to_calculate_bmi" specializations="@props/deliveryTarget" xtrc="task:1;3:33" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">How to Calculate BMI ?</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Here are the instructions for using BMI calculator app</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+        <prereq class="- topic/section task/prereq " id="unique_1_Connect_42_prereq_t1j_wjd_zcc" xtrc="prereq:1;7:41" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">You must know the measurement of your body weight and
+            height.</prereq>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;9:16" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+            <step class="- topic/li task/step " xtrc="step:1;10:19" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;11:22" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Enter Gender (Male/Female)</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;13:19" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;14:22" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Enter Age</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;16:19" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;17:22" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Select the unit of measurement for weight (kg/lbs).</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;19:19" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;20:22" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Enter weight.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;22:19" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;23:22" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Select the unit of measurement for height (ft/inch/cm/m).</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;25:19" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;26:22" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Enter height.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;28:19" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;29:22" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Tap Submit button.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_1_Connect_42_result_hnk_3sd_zcc" xtrc="result:1;32:41" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">The result from BMI calculation is displayed along with the
+            corresponding weight category.</result>
+        <example class="- topic/example " id="unique_1_Connect_42_example_ijv_msd_zcc" xtrc="example:1;34:43" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">
+            <p class="- topic/p " xtrc="p:1;35:16" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">You want to find your BMI for a woman aged 26 years. Enter Gender as Female. Enter
+                Age 26 years. Select unit of measurement for weight as kg. Enter weight as 65
+                kg.</p>
+            <p class="- topic/p " xtrc="p:2;38:16" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/how_to_calculate_bmi.dita">Select unit of measurement for height as cm. Enter weight as 161 cm. The result is
+                displayed as 24.2, Normal Weight.</p>
+        </example>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_2" oid="what_is_bmi" specializations="@props/deliveryTarget" xtrc="concept:1;3:27" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">What is BMI ?</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">Body Mass Index (BMI) is a simple and widely used method to estimate an individual's
+        body fat based on their weight with respect to their height. It’s commonly used by
+        healthcare professionals to evaluate the risk of developing health conditions related to
+        body weight, such as obesity, diabetes, hypertension, cardiovascular diseases, and certain
+        types of cancer. It provides numerical values that are catergorized into different ranges,
+        indicating whether they are underweight,normal weight, overweight, or obese.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;11:14" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">
+        <ul class="- topic/ul " id="unique_2_Connect_42_ul_dwy_2wd_zcc" xtrc="ul:1;12:33" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">
+            <li class="- topic/li " xtrc="li:1;13:17" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">Underweight: BMI &lt; 18.5</li>
+            <li class="- topic/li " xtrc="li:2;14:17" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">Normal Weight: BMI 18.5–24.9</li>
+            <li class="- topic/li " xtrc="li:3;15:17" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">Overweight: BMI 25–29.9</li>
+            <li class="- topic/li " xtrc="li:4;16:17" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">Obese: BMI &gt;= 30</li>
+        </ul>
+        <p class="- topic/p " xtrc="p:1;18:12" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;18:15" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">Formula to calculate BMI:</b></p>
+        <p class="- topic/p " xtrc="p:2;19:12" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">BMI (standard units) = Weight (kg)/Height (m)sq</p>
+        <p class="- topic/p " xtrc="p:3;20:12" xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita">BMI (imperial units) = Weight (lbs)*703/Height (in)sq</p>
+    </conbody>
+</concept></topic><opentopic-index:index.groups/></map>

@@ -2,15 +2,27 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_subtract_numbers">
     <title>How to Subtract Numbers ?</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Here are the instructions for using the subtraction feature of ABC calculator
+        app</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq id="prereq_xvd_2fx_ycc">You must know what is subtraction to successfully perform
+            this operation.</prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the minus (-) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) button.</cmd>
             </step>
         </steps>
+        <result id="result_vm1_bgx_ycc">The result from the subtraction is displayed.</result>
+        <example id="example_cxx_ggx_ycc">You want to subtract 2 from 5. The equation will appear as
+            5-2=3. Enter 5. Press minus. Enter 2. Press Equal. The result 3 appears on the screen. </example>
     </taskbody>
 </task>

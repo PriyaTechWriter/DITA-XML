@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-User Guide for BMI Calculator App</title>
+    <topichead navtitle="BMI">
+        <topicref href="how_to_calculate_bmi.dita"/>
+        <topicref href="what_is_bmi.dita"/>
+    </topichead>
+</map>

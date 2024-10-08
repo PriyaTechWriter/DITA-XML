@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_bmi">
+    <title>What is BMI ?</title>
+    <shortdesc>Body Mass Index (BMI) is a simple and widely used method to estimate an individual's
+        body fat based on their weight with respect to their height. It’s commonly used by
+        healthcare professionals to evaluate the risk of developing health conditions related to
+        body weight, such as obesity, diabetes, hypertension, cardiovascular diseases, and certain
+        types of cancer. It provides numerical values that are catergorized into different ranges,
+        indicating whether they are underweight,normal weight, overweight, or obese.</shortdesc>
+    <conbody>
+        <ul id="ul_dwy_2wd_zcc">
+            <li>Underweight: BMI &lt; 18.5</li>
+            <li>Normal Weight: BMI 18.5–24.9</li>
+            <li>Overweight: BMI 25–29.9</li>
+            <li>Obese: BMI >= 30</li>
+        </ul>
+        <p><b>Formula to calculate BMI:</b></p>
+        <p>BMI (standard units) = Weight (kg)/Height (m)sq</p>
+        <p>BMI (imperial units) = Weight (lbs)*703/Height (in)sq</p>
+    </conbody>
+</concept>

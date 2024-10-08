@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_calculate_bmi">
+    <title>How to Calculate BMI ?</title>
+    <shortdesc>Here are the instructions for using BMI calculator app</shortdesc>
+    <taskbody>
+        <prereq id="prereq_t1j_wjd_zcc">You must know the measurement of your body weight and
+            height.</prereq>
+        <steps>
+            <step>
+                <cmd>Enter Gender (Male/Female)</cmd>
+            </step>
+            <step>
+                <cmd>Enter Age</cmd>
+            </step>
+            <step>
+                <cmd>Select the unit of measurement for weight (kg/lbs).</cmd>
+            </step>
+            <step>
+                <cmd>Enter weight.</cmd>
+            </step>
+            <step>
+                <cmd>Select the unit of measurement for height (ft/inch/cm/m).</cmd>
+            </step>
+            <step>
+                <cmd>Enter height.</cmd>
+            </step>
+            <step>
+                <cmd>Tap Submit button.</cmd>
+            </step>
+        </steps>
+        <result id="result_hnk_3sd_zcc">The result from BMI calculation is displayed along with the
+            corresponding weight category.</result>
+        <example id="example_ijv_msd_zcc">
+            <p>You want to find your BMI for a woman aged 26 years. Enter Gender as Female. Enter
+                Age 26 years. Select unit of measurement for weight as kg. Enter weight as 65
+                kg.</p>
+            <p>Select unit of measurement for height as cm. Enter weight as 161 cm. The result is
+                displayed as 24.2, Normal Weight.</p>
+        </example>
+    </taskbody>
+</task>

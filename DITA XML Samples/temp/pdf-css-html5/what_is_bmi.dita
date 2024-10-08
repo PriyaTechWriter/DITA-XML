@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\DELL\Desktop\DITA XML Samples\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="what_is_bmi" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="concept:1;3:27" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="title:1;4:12">What is BMI ?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="shortdesc:1;5:16">Body Mass Index (BMI) is a simple and widely used method to estimate an individual's
+        body fat based on their weight with respect to their height. It’s commonly used by
+        healthcare professionals to evaluate the risk of developing health conditions related to
+        body weight, such as obesity, diabetes, hypertension, cardiovascular diseases, and certain
+        types of cancer. It provides numerical values that are catergorized into different ranges,
+        indicating whether they are underweight,normal weight, overweight, or obese.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="conbody:1;11:14">
+        <ul id="ul_dwy_2wd_zcc" class="- topic/ul " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="ul:1;12:33">
+            <li class="- topic/li " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="li:1;13:17">Underweight: BMI &lt; 18.5</li>
+            <li class="- topic/li " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="li:2;14:17">Normal Weight: BMI 18.5–24.9</li>
+            <li class="- topic/li " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="li:3;15:17">Overweight: BMI 25–29.9</li>
+            <li class="- topic/li " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="li:4;16:17">Obese: BMI &gt;= 30</li>
+        </ul>
+        <p class="- topic/p " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="p:1;18:12"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="b:1;18:15">Formula to calculate BMI:</b></p>
+        <p class="- topic/p " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="p:2;19:12">BMI (standard units) = Weight (kg)/Height (m)sq</p>
+        <p class="- topic/p " xtrf="file:/C:/Users/DELL/Desktop/DITA%20XML%20Samples/what_is_bmi.dita" xtrc="p:3;20:12">BMI (imperial units) = Weight (lbs)*703/Height (in)sq</p>
+    </conbody>
+</concept>
