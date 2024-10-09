@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_use_to_do_list_app_0">
+    <title>How to Use To-Do List App ?</title>
+    <shortdesc>Here are the instructions to use To-Do List app.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_cxf_sqk_zcc">You must have a smartphone or tablet with the operating
+            system that supports To-Do List app (e.g. Android 5.0 or later, iOS 10 or later).  Then
+            you need to have a clear idea of the tasks, projects, or goals you want to track. </prereq>
+        <steps>
+            <step>
+                <cmd><b>Create an account:</b> Open the app and sign up using your email or social
+                    media account.</cmd>
+            </step>
+            <step>
+                <cmd><b>Add a new task:</b> Click the "Add Task" button and enter the task title,
+                    e.g. buy groceries. Then add other details, due dates, or priority levels for
+                    the particular task.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Save Task" button to save this task.</cmd>
+            </step>
+            <step>
+                <cmd><b>Mark as Completed:</b> Once the task is finished, mark it as complete by
+                    tapping the checkbox corresponding to the particular task. </cmd>
+            </step>
+            <step>
+                <cmd><b>Edit/Delete Task:</b> If you need to modify a task, click on "Edit" button
+                    next to the task. To delete the task, long-press on the task title and swipe to
+                    left to delete it.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

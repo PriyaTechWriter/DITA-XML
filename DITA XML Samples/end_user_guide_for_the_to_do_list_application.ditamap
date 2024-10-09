@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-User Guide for the To-Do List Application</title>
+    <topichead navtitle="To-Do List App">
+        <topicref href="how_to_use_to_do_list_app_0.dita">
+            <topicref href="what_is_the_usability_of_to_do_list_app.dita"/>
+        </topicref>
+    </topichead>
+</map>
